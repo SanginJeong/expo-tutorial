@@ -4,4 +4,4 @@ EXPO 공식문서 튜토리얼 기록장 입니다.
 
 ## Links
 
-[1. Create your first app](./StickerSmash/README.md)
+[1. Create your first app](./docs/chapter1.md)
